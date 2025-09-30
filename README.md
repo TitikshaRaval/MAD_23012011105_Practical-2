@@ -39,7 +39,7 @@ This Android application showcases the Activity Lifecycle and a basic UI. The ma
 ### Screenshots
 Below are screenshots demonstrating the application UI :
 
-<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/c6c3242f-8f03-4df4-be0f-6bdafbc2450a" />
+<img width="1080" height="230" alt="image" src="https://github.com/user-attachments/assets/c6c3242f-8f03-4df4-be0f-6bdafbc2450a" />
 <img width="1070" height="86" alt="Screenshot 2025-09-30 174650" src="https://github.com/user-attachments/assets/e29f756c-f3ec-42d6-b203-275944eb6e39" />
 <img width="1444" height="91" alt="Screenshot 2025-09-30 174704" src="https://github.com/user-attachments/assets/1b596f49-2a0c-4877-9820-3037b7771776" />
 <img width="1356" height="202" alt="Screenshot 2025-09-30 174720" src="https://github.com/user-attachments/assets/a2ee9d49-3b91-44ba-9f45-2461d59f5976" />
